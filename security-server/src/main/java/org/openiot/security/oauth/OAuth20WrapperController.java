@@ -1,5 +1,4 @@
 /**
- * Copyright © 2011-2014, OpenIoT
  * 
  * This file contains the source code of the “Jasig CAS” library by 
  * “Jasig”, licensed under the terms of the “Apache License,Version 2.0”
@@ -38,8 +37,8 @@ import org.springframework.web.servlet.mvc.AbstractController;
  * CAS, should be mapped to something like /oauth2.0/*. Dispatch request to
  * specific controllers : authorize, accessToken...
  * 
- * @author Jerome Leleu
- * @author Mehdi Riahi
+ * @author Yigremachew Eshetu
+
  */
 public final class OAuth20WrapperController extends BaseOAuthWrapperController implements InitializingBean {
 
