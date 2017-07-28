@@ -1,5 +1,4 @@
 /**
- * Copyright (c) 2011-2014, OpenIoT
  *
  * This library is free software; you can redistribute it and/or
  * modify it either under the terms of the GNU Lesser General Public
@@ -54,7 +53,7 @@ import com.fasterxml.jackson.core.JsonGenerator;
  * This controller returns the roles and permissions associated with the roles
  * for the requesting client
  * 
- * @author Mehdi Riahi
+ * @author Yigremachew Eshetu
  */
 public final class OAuth20PermissionController extends AbstractController {
 
