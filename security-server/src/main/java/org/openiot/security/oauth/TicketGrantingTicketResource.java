@@ -1,4 +1,4 @@
-/* Copyright (c) 2011-2014, OpenIoT
+/* 
  *
  * This library is free software; you can redistribute it and/or
  * modify it either under the terms of the GNU Lesser General Public
@@ -35,7 +35,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 /**
  * Implementation of a Restlet resource for deleting a TicketGrantingTicket.
  * 
- * @author Mehdi Riahi
+ * @author Yigremachew Eshetu
  */
 public final class TicketGrantingTicketResource extends Resource {
 
