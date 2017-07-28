@@ -12,7 +12,7 @@ import ch.qos.logback.classic.joran.JoranConfigurator;
 import ch.qos.logback.core.joran.spi.JoranException;
 
 /**
- * @author Mehdi Riahi
+ * @author yigremachew eshetu
  * 
  */
 public abstract class LogbackConfigurer {
