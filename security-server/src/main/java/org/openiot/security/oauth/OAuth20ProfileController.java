@@ -1,5 +1,4 @@
 /**
- * Copyright (c) 2011-2014, OpenIoT
  *
  * This library is free software; you can redistribute it and/or
  * modify it either under the terms of the GNU Lesser General Public
@@ -41,10 +40,9 @@ import com.fasterxml.jackson.core.JsonGenerator;
 
 /**
  * This controller returns a profile for the authenticated user (identifier +
- * attributes), found with the access token (CAS granting ticket).
+ * attributes), found with the access token (CAS granting t).
  * 
- * @author Jerome Leleu
- * @author Mehdi Riahi
+ * @author Yigremachew Eshetu 
  */
 public final class OAuth20ProfileController extends AbstractController {
 
